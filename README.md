@@ -180,9 +180,3 @@ Na seção inferior do `FINAL_BUILD`, carregue as matrizes de controle:
 | **Emanuel Carneiro da Silva** | `082230017` |
 | **João Vitor Maciel Nai** | `082230004` |
 | **José Gabriel de Morais Souza** | `082230001` |
-
----
-
-## 🔗 Referências
-
-- 🎥 **Vídeo de Inspiração:** [16-BIT CPU with RegisterFile Tutorial! Part 1 - The ALU.](https://www.youtube.com/watch?v=GRM1Oc3erew)
